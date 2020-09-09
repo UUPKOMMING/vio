@@ -1,0 +1,24 @@
+h1{
+    background:#e6e6;
+    display: flex;
+    margin-bottom: 0.3rem;
+    text-transform: uppercase;
+}
+input{
+    margin: auto;
+}
+p{
+    flex: 3;
+}
+button{
+    padding: .8rem;
+}
+header{
+    text-align: center;
+    padding: 1.5rem;
+    background: #333;
+    color: #fff1f1;
+}
+form{ 
+    display: flex;
+}
